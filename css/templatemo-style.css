@@ -1088,3 +1088,9 @@ footer span,
   0%, 100% { opacity: 1; }
   50% { opacity: 0; }
 }
+
+.fab.fa-python { color: blue; font-size: 2em; margin-right: 20px; }
+.fab.fa-java { color: red; font-size: 2em; margin-right: 20px; }
+.fas.fa-code { color: purple; font-size: 1.5em; margin-right: 17px; }
+.fab.fa-js { color: yellow; font-size: 2em; margin-right: 20px; }
+.fab.fa-react { color: cyan; font-size: 2em; margin-right: 20px; }
